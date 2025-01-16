@@ -5,6 +5,7 @@ import musicpng from "../assets/portfolio/musicpng.png";
 import stoppng from "../assets/portfolio/stoppng.png";
 import refokuspng from "../assets/portfolio/refokuspng.png";
 import etp from "../assets/portfolio/expensetrackerpng.png";
+import gemini from "../assets/portfolio/gemini.png";
 
 function Portfolio() {
   const portfolios = [
@@ -22,9 +23,9 @@ function Portfolio() {
     },
     {
       id: 3,
-      src: healthpng,
-      demo: "https://health-care-dashboard-seven.vercel.app/",
-      code: "https://github.com/VanshAggarwal881/health_care_dashboard",
+      src: gemini,
+      demo: "https://gemini-clone-gilt-three.vercel.app/",
+      code: "https://github.com/VanshAggarwal881/Gemini-Clone",
     },
     {
       id: 4,
@@ -40,9 +41,9 @@ function Portfolio() {
     },
     {
       id: 6,
-      src: etp,
-      demo: "https://expense-tracker-seven-pink.vercel.app/",
-      code: "https://github.com/VanshAggarwal881/First-React-App",
+      src: healthpng,
+      demo: "https://health-care-dashboard-seven.vercel.app/",
+      code: "https://github.com/VanshAggarwal881/health_care_dashboard",
     },
   ];
   return (
