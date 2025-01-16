@@ -5,7 +5,7 @@ import musicpng from "../assets/portfolio/musicpng.png";
 import stoppng from "../assets/portfolio/stoppng.png";
 import refokuspng from "../assets/portfolio/refokuspng.png";
 import etp from "../assets/portfolio/expensetrackerpng.png";
-import gemini from "../assets/portfolio/gemini.png";
+import gemini from "../assets/portfolio/gemini.jpg";
 
 function Portfolio() {
   const portfolios = [
