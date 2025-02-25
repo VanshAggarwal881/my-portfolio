@@ -19,7 +19,7 @@ function SocialLinks() {
       id: 2,
       child: (
         <>
-          LinkedIn <FaGithub size={30} />
+          Github <FaGithub size={30} />
         </>
       ),
       href: "https://github.com/VanshAggarwal881",
@@ -40,7 +40,7 @@ function SocialLinks() {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/my-resume.pdf",
+      href: "/myresume.pdf",
       style: "rounded-br-md",
       download: true,
     },

@@ -15,7 +15,7 @@ function Home() {
             flex flex-col justify-center md:h-[65vh] mt-[80px] md:mt-4 "
         >
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Frontend Developer
+            I'm a Software Developer
           </h2>
           <p className="text-gray-300 py-4 max-w-md">
             I specialize in creating user-friendly, responsive websites with a

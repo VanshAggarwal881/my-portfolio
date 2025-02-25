@@ -17,12 +17,14 @@ function About() {
         </div>
 
         <p className="text-2xl font-semibold mt-10">
-          "I'm a frontend developer with a strong passion for creating engaging
-          and accessible web experiences. With a foundation in HTML, CSS, and
-          JavaScript, I love turning complex problems into intuitive,
-          user-friendly designs. My current toolkit includes React, where I
-          leverage modern libraries like Framer Motion for animations and
-          Locomotive Scroll for smooth transitions.
+          "I'm a software developer with a passion for building scalable and
+          efficient web applications. From crafting intuitive user interfaces
+          with React to developing robust backend systems with Node.js and
+          MongoDB, I enjoy solving complex problems and delivering seamless
+          digital experiences. My toolkit includes technologies like Express.js
+          for server-side logic, JWT for authentication, and Cloudinary for
+          media management. I’m always eager to learn and push the boundaries of
+          what’s possible on the web.
         </p>
 
         <br />
