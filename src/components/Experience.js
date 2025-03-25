@@ -7,6 +7,7 @@ import node from "../assets/node.png";
 import python from "../assets/python.png";
 import tailwind from "../assets/tailwind.png";
 import reactimg from "../assets/react.png";
+import express from "../assets/Express.svg";
 
 function Experience() {
   const logo = [
@@ -57,6 +58,12 @@ function Experience() {
       src: node,
       title: "Nodejs",
       style: "shadow-green-300",
+    },
+    {
+      id: 9,
+      src: express,
+      title: "Expressjs",
+      style: "shadow-white",
     },
   ];
   return (

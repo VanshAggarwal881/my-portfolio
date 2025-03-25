@@ -12,7 +12,7 @@ function SocialLinks() {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/vansh-aggarwal-b972a1286/",
+      href: "https://www.linkedin.com/in/vanshaggarwal881/",
       style: "rounded-tr-md",
     },
     {

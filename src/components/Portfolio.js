@@ -1,8 +1,8 @@
 import React from "react";
 import CRUDpng from "../assets/portfolio/CRUDpng.png";
-import healthpng from "../assets/portfolio/healthpng.png";
+import vblog from "../assets/portfolio/vblog.png";
 import musicpng from "../assets/portfolio/musicpng.png";
-import stoppng from "../assets/portfolio/stoppng.png";
+import youtube from "../assets/portfolio/youtube.jpg";
 import refokuspng from "../assets/portfolio/refokuspng.png";
 import etp from "../assets/portfolio/expensetrackerpng.png";
 import gemini from "../assets/portfolio/gemini.jpg";
@@ -11,15 +11,15 @@ function Portfolio() {
   const portfolios = [
     {
       id: 1,
-      src: CRUDpng,
-      demo: "https://clickcart-pi.vercel.app/",
-      code: "https://github.com/VanshAggarwal881/clickcart",
+      src: vblog,
+      demo: "https://v-blog-three.vercel.app/",
+      code: "https://github.com/VanshAggarwal881/V-Blog",
     },
     {
       id: 2,
-      src: refokuspng,
-      demo: "https://refokus-website-portfolio-page.vercel.app/",
-      code: "https://github.com/VanshAggarwal881/Refokus_website_Portfolio_page",
+      src: youtube,
+      demo: "https://github.com/VanshAggarwal881/youtube-backend",
+      code: "https://github.com/VanshAggarwal881/youtube-backend",
     },
     {
       id: 3,
@@ -29,21 +29,21 @@ function Portfolio() {
     },
     {
       id: 4,
-      src: musicpng,
-      demo: "https://music-player-app-coral.vercel.app/",
-      code: "https://github.com/VanshAggarwal881/Music_Player_Project-beginner-friendly-",
+      src: CRUDpng,
+      demo: "https://clickcart-pi.vercel.app/",
+      code: "https://github.com/VanshAggarwal881/clickcart",
     },
     {
       id: 5,
-      src: stoppng,
-      demo: "https://vanshaggarwal881.github.io/Prasunet_WD_02/",
-      code: "https://github.com/VanshAggarwal881/Stopwatch-Web-Application",
+      src: refokuspng,
+      demo: "https://refokus-website-portfolio-page.vercel.app/",
+      code: "https://github.com/VanshAggarwal881/Refokus_website_Portfolio_page",
     },
     {
       id: 6,
-      src: healthpng,
-      demo: "https://health-care-dashboard-seven.vercel.app/",
-      code: "https://github.com/VanshAggarwal881/health_care_dashboard",
+      src: musicpng,
+      demo: "https://music-player-app-coral.vercel.app/",
+      code: "https://github.com/VanshAggarwal881/Music_Player_Project-beginner-friendly-",
     },
   ];
   return (
